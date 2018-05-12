@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8700
     wikipedia: http://en.wikipedia.org/wiki/John_T._McCutcheon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21254#In-AfricaHunting-Adventures-in-the-Big-Game-Country
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2007-04-29'
 gutenberg_type: Text
